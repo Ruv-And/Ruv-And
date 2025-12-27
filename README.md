@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Aruv Dand
-- 📫 How to reach me ... email: adand2765@gmail.com
+- CS student at UIUC
+- Interested in backend systems and ML
+- 📫 You can reach me at adand2765 [at] gmail [dot] com
+- or checkout my website at [ruv-and.github.io](https://ruv-and.github.io)
 
 <!---
 Ruv-And/Ruv-And is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
